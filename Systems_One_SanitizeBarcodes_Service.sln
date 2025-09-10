@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Systems_One_SanitizeBarcodes_Service", "Systems_One_SanitizeBarcodes_Service.csproj", "{474E5327-1792-4527-8DC6-E8DD15CFB433}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Systems_One_SanitizeBarcodes_Service_Installer", "Systems_One_SanitizeBarcodes_Service_Installer\Systems_One_SanitizeBarcodes_Service_Installer.vdproj", "{CFAF8DCE-EC5B-ED75-5010-FCA66F1648CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{474E5327-1792-4527-8DC6-E8DD15CFB433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{474E5327-1792-4527-8DC6-E8DD15CFB433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{474E5327-1792-4527-8DC6-E8DD15CFB433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{474E5327-1792-4527-8DC6-E8DD15CFB433}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFAF8DCE-EC5B-ED75-5010-FCA66F1648CF}.Debug|Any CPU.ActiveCfg = Debug
+		{CFAF8DCE-EC5B-ED75-5010-FCA66F1648CF}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37AAB278-5FE3-4BB1-9FF8-FE9EF9E0CA82}
+	EndGlobalSection
+EndGlobal
